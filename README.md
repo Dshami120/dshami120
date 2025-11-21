@@ -9,8 +9,19 @@
 
 <!-- ✨ Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=27&duration=2800&color=4CC9F0&center=true&vCenter=true&width=800&lines=NYC-Based+Full-Stack+Software+Engineer;Building+Next-Generation+Applications;Systems+%7C+Networking+%7C+Databases+%7C+Automation;Cutting-Edge+Technologies+%7C+Clean+Architecture;Java+%7C+Python+%7C+SQL+%7C+Web+Stack;Always+Building,+Always+Improving"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=27&duration=2800&color=4CC9F0&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Building+Next-Generation+Applications;Ai-mL+%7C+Networking+%7C+Databases+%7C+Automation;Cutting-Edge+Technologies+%7C+Clean+Architecture;Java+%7C+Python+%7C+SQL+%7C+Web+Stack;Always+Building,+Always+Improving"/>
 </p>
+<!-- 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=27&duration=2800&color=4CC9F0&center=true&vCenter=true&width=800&lines=
+  Full-Stack+Software+Engineer;
+  Building+Next-Generation+Applications;
+  Ai-mL+%7C+Networking+%7C+Databases+%7C+Automation;
+  Cutting-Edge+Technologies+%7C+Clean+Architecture;
+  Java+%7C+Python+%7C+SQL+%7C+Web+Stack;
+  Always+Building,+Always+Improving"/>
+</p>
+-->
 
 ---
 
