@@ -48,18 +48,28 @@ I build **practical, real-world systems** that solve real problems — from netw
 <p align="center">
   <table>
     <tr>
+      <td align="center" width="120"> <p>Front End:</p> </td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=java" width="60"/><br><sub><b>Java</b></sub></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="60"/><br><sub><b>Python</b></sub></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br><sub><b>C++</b></sub></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="60"/><br><sub><b>C</b></sub></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cs" width="60"/><br><sub><b>C#</b></sub></td>
-    </tr>
-    <tr>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br><sub><b>JavaScript</b></sub></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="60"/><br><sub><b>TypeScript</b></sub></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=lua" width="60"/><br><sub><b>Lua</b></sub></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=r" width="60"/><br><sub><b>R</b></sub></td>
       <td align="center" width="120"><img src="https://skillicons.dev/icons?i=rust" width="60"/><br><sub><b>Rust</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bash" width="60"/><br><sub><b>Bash</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ruby" width="60"/><br><sub><b>Ruby</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=go" width="60"/><br><sub><b>Go</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=php" width="60"/><br><sub><b>PHP</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br><sub><b>SQL</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="120"> <p>Front End:</p> </td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="60"/><br><sub><b>HTML5</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="60"/><br><sub><b>CSS3</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br><sub><b>JavaScript</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="60"/><br><sub><b>TypeScript</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=kotlin" width="60"/><br><sub><b>Kotlin</b></sub></td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=swift" width="60"/><br><sub><b>Swift</b></sub></td>
     </tr>
   </table>
 </p>
