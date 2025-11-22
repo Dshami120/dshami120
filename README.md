@@ -234,7 +234,7 @@ Organized by category:
 - post-generator  
 
 ### 📚 Learning & Concept Projects  
-- covid-climate-analysis  
+- [covid-climate-analysis](https://github.com/Jimmyu2foru18/covid-climate-analysis) – ML and data analysis   
 - Souls-Series UML  
 - Research-Project  
 - doodle  
